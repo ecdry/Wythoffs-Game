@@ -22,7 +22,7 @@ Players take turns and may:
 - Remove the same number of objects from both piles
 The player who removes the last object(s) wins.
 
-## How to Run
+# How to Run
 
 ### 1) Start the Server
 
